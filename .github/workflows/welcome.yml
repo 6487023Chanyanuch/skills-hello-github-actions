@@ -1,4 +1,3 @@
-## 6487023
 name: Post welcome comment
 on:
   pull_request:
